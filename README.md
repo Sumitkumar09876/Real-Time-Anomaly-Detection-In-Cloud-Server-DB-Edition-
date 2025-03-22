@@ -4,6 +4,7 @@ This project implements real-time anomaly detection using `IsolationForest` in a
 
 ![Screenshot 2024-10-23 211553](https://github.com/user-attachments/assets/c125a851-f7f3-42f4-9b87-e645346d6f69)
 ![Screenshot (16)](https://github.com/user-attachments/assets/4ad0c82e-ded9-4cfa-a305-ce3fdc0f309b)
+![Screenshot 2025-03-22 125759](https://github.com/user-attachments/assets/52f932af-b5d2-4212-9212-791c2cba884b)
 
 ## Features
 
