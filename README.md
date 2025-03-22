@@ -2,8 +2,12 @@
 
 This project implements real-time anomaly detection using `IsolationForest` in a `Streamlit` app. The system monitors CPU, memory, and network activity metrics in cloud servers and detects anomalies in real-time.
 
-![Screenshot 2024-10-23 211553](https://github.com/user-attachments/assets/c125a851-f7f3-42f4-9b87-e645346d6f69)
-![Screenshot (16)](https://github.com/user-attachments/assets/4ad0c82e-ded9-4cfa-a305-ce3fdc0f309b)
+## User Interface
+![Screenshot 2025-03-22 130004](https://github.com/user-attachments/assets/346aae39-a33e-4041-a583-55562159ee30)
+![Screenshot 2025-03-22 130037](https://github.com/user-attachments/assets/45956452-5dba-408d-bf20-c33182cfc78d)
+![Screenshot 2025-03-22 130058](https://github.com/user-attachments/assets/de5deefc-a6d7-4879-a3ed-15a91ea31722)
+
+## Database
 ![Screenshot 2025-03-22 125759](https://github.com/user-attachments/assets/52f932af-b5d2-4212-9212-791c2cba884b)
 
 ## Features
