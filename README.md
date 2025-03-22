@@ -23,6 +23,7 @@ This project implements real-time anomaly detection using `IsolationForest` in a
 - **Scikit-learn**: For the IsolationForest algorithm
 - **Pandas & NumPy**: For data manipulation
 - **Plotly**: For interactive visualizations
+- **SQLite**: Lightweight, file-based database (default)
 - **SQLAlchemy**: For database operations
 
 ## Installation
